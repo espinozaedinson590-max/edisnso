@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi presentación personal</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <h1>Mi presentación personal</h1>
+
+    <h2>Datos del estudiante</h2>
+
+    <p>Nombre: Edison Espinoza</p>
+    <p>Universidad: UNEMI</p>
+    <p>Carrera: Ingeniería de Software</p>
+    <p>Semestre: Primero</p>
+
+    <h2>Sobre el proyecto</h2>
+
+    <p>Este proyecto tiene como objetivo aprender
+    a utilizar Git y GitHub para controlar versiones
+    y registrar cambios en archivos.</p>
+
+    <footer>
+        Examen Práctico 2 - 2026
+    </footer>
+
+</body>
+</html>
